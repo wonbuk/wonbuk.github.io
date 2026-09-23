@@ -4,4 +4,5 @@ title: My Blog
 description: My GitHub wonbuk Pages 
 
 header_pages:
+  - index.md
   - about.md
