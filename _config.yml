@@ -2,3 +2,6 @@ theme: minima
 
 title: My Blog
 description: My GitHub wonbuk Pages 
+
+header_pages:
+  - about.md
