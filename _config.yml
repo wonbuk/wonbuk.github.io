@@ -3,8 +3,7 @@ theme: minima
 title: My Blog
 description: My GitHub wonbuk Pages 
 
-author:
-  name: Mill
+author: "Mill"
 
 header_pages:
   - index.md
