@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "추석 전날"
-date: 2026-09-24
+date: 2026-09-24 12:30 GMT+9
 published: true
 ---
 
