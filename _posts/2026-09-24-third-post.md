@@ -2,7 +2,7 @@
 layout: post
 title: "추석 전날"
 date: 2026-09-24
-published: false
+published: true
 ---
 
 태안 하나롤 마트에 다녀왔습니다
