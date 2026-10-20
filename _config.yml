@@ -12,5 +12,3 @@ header_pages:
 kramdown:
   parse_block_html: true
   parse_span_html: true
-
-timezone: Asia/Seoul
