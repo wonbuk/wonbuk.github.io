@@ -8,3 +8,7 @@ author: "Mill"
 header_pages:
   - index.md
   - about.md
+
+kramdown:
+  parse_block_html: true
+  parse_span_html: true
