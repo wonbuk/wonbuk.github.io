@@ -1,5 +1,4 @@
-# theme: minima
-remote_theme: jekyll/minima
+theme: minima
 
 title: 원북 생활
 description: My GitHub wonbuk Pages 
@@ -9,9 +8,6 @@ author: "Mill"
 header_pages:
   - index.md
   - about.md
-
-plugins:
-  - jekyll-remote-theme
 
 kramdown:
   parse_block_html: true
