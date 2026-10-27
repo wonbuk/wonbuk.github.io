@@ -7,10 +7,8 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <!-- 날짜 뒤에 %H:%M(시:분) 포맷을 추가했습니다 -->
-        {{ page.date | date: "%Y년 %m월 %d일 %H:%M" }}
-      </time>
+  {{ page.date | date: "%b %-d, %Y %H:%M" }}
+</time>
       {%- if page.author -%}
         • <span itemprop="author" itemtype="http://schema.org/Person" class="p-author h-card"><span class="p-name">{{ page.author }}</span></span>
       {%- endif -%}</p>
