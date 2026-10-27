@@ -7,10 +7,10 @@ published: true
 
 ---
 
-1. 사용자 설정 (최초 1회만)
-git config --global user.name "깃허브_아이디"
-git config --global user.email "깃허브_이메일"
----
+1. 사용자 설정 (최초 1회만)  
+git config --global user.name "깃허브_아이디"  
+git config --global user.email "깃허브_이메일"  
+
 
 2. 레포지토리 복제하기
 git clone 깃허브_HTTPS_주소
