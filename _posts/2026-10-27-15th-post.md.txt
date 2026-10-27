@@ -1,13 +1,17 @@
 
 ---
 layout: post
-title: "10월초 연휴의 끝"
-date: 2026-10-11 21:31:00 +0900
+title: "신두리 두리번 식당"
+date: 2026-10-27 12:00:00 +0900
 published: true
 ---
 
- 2026-10-14-7th-post.md 
+신두리 49카페 휴무로 방문한 햄버거집
 
-![첫 번째 사진](/assets/images/Dodger_Stadium_field_from_upper_deck_2015-10-04.jpg)
+음식이 너무 냉동 느낌이 많이 나네요. 햄버거 피자 모두가 특히 햄버거 갈색 소스는 기성품 맛이 풍풍
+
+좋은 점은 식당에서 바라보는 바다 풍경, 가성비는 너무 안좋음. 햄버거 세트 2만원. 재방문 의사 없음
+
+![두리번식당](/assets/images/drb.jpg) ![두리번식당1](/assets/images/drb1.jpg)
 
 
