@@ -16,11 +16,11 @@ git config --global user.email "깃허브_이메일"
 git clone 깃허브_HTTPS_주소  
 cd 레포지토리_폴더_이름  
 
-2-1 다른 사람이 수정했을지 모르니 깃허브 시작시 동기화   
+2-1 깃허브 시작 시 동기화(수정내용들을)  
 git pull origin main  
 
 3. 파일 수정하기 (vi 편집기 사용 예시)  
-vi 파일이름.html  
+ex) vi 파일이름.html  
 
 4. 변경 사항 확인 및 커밋하기  
 git status  
