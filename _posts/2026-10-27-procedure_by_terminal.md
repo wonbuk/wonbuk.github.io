@@ -30,4 +30,7 @@ git commit -m "터미널에서 웹페이지 수정 완료"
 6. 깃허브에 반영하기 (푸시)  
 git push origin main  
 (비밀번호 입력 시 깃허브 비밀번호 대신 Personal Access Token 입력)  
- 이 토큰은 깃허브 설정에서 만들어서 보관해야 합니다. 현재90일짜리 보관중
+ 이 토큰은 깃허브 설정에서 만들어서 보관해야 합니다. 현재90일짜리 보관중  
+ 90일이 지나면 다시 만들어야 합니다.
+ 사용자아이콘/세팅s/디벨로퍼세팅s/personal access tokens/tokens(classic)/Generate new token/Generate new token(classic)
+   
