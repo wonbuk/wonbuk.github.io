@@ -1,9 +1,0 @@
-# This file only for "Minimal Mistakes"
-# main links 
-main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /year-archive/
