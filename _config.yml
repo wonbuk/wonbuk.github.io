@@ -1,0 +1,30 @@
+title: 원북 생활
+description: My GitHub wonbuk Pages 
+
+author:
+  name: "Mill"
+  bio: "블로그 설명을 적는 공간입니다."
+  links:
+    - label: "GitHub"
+    - icon: "fab fa-fw fa-github"
+    - url: "https://github.com/wonbuk"
+
+# 테마 설정 (Minimal Mistakes 적용)
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+# Minimal Mistakes 전용 스킨 선택 (air, aqua, contrast, dark, dirt, neon, mint, plum, sunshine 중 선택 가능, 지우면 기본값)
+minimal_mistakes_skin: "default"
+
+# 필수 플러그인 설정 (오류 방지를 위해 필요)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+timezone: Asia/Seoul 
+
+kramdown:
+  parse_block_html: true
+  parse_span_html: true
